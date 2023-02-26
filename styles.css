@@ -1,0 +1,37 @@
+.header,
+.hero,
+.footer {
+  background-color: #1f2937;
+}
+
+.hero-header {
+  font-size: 48px;
+  font-weight: 800px;
+  color: #f9faf8;
+}
+
+.hero-subtext,
+.links a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+.hero-button,
+.call-to-action,
+.call-to-action-button {
+  background-color: #3882f6;
+  color: #f9faf8;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-weight: 300px;
+  font-style: italic;
+  color: #1f2937;
+}
